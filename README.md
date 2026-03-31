@@ -41,7 +41,7 @@ Backend
 Database
 
 * MySQL
-
+After installation, open your browser and run:http://localhost/club/index.php
 
 System Architecture
 
@@ -50,6 +50,8 @@ The application follows a multi-layered architecture:
 -Presentation Layer: HTML, CSS, JavaScript
 -Application Layer: PHP & Java for handling logic and requests
 -Data Layer:MySQL database for storing user, club, and event data
+
+given below is a youtube link to explain the overall function of the portal :https://www.youtube.com/watch?v=OEU_TqER1Nc
 
 
 
